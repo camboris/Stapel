@@ -1,0 +1,26 @@
+{
+  "name": "Stapel",
+  "description": "An experimental jQuery plugin that will group thumbnails by a shared data-attribute into a pile",
+  "keywords": [
+    "css",
+    "js",
+    "web"
+  ],
+  "homepage": "http://tympanus.net/codrops/2012/11/21/adaptive-thumbnail-pile-effect-with-automatic-grouping/",
+  "license": "MIT",
+  "moduleType": "globals",
+  "main": [
+    "css/stapel.css",
+    "js/jquery.stapel.js"
+  ],
+  "ignore": [
+    "/.*",
+    "index*.html",
+    "CNAME",
+    "README.*",
+    "/images"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
